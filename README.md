@@ -1,7 +1,8 @@
-﻿# Deep Learning Laboratory
+# Deep Learning Laboratory
 
-[![License](https://img.shields.io/github/license/harisaravananm/Deep-learning-laboratory?style=for-the-badge)](https://github.com/harisaravananm/Deep-learning-laboratory/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/harisaravananm/Deep-learning-laboratory?style=for-the-badge)](https://github.com/harisaravananm/Deep-learning-laboratory/commits/main)
+<!-- tech-version-badges -->
+![Python 3.8%2B](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep-Learning-6A1B9A?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer-Vision-1E88E5?style=for-the-badge) ![NLP Experiments](https://img.shields.io/badge/NLP-Experiments-FF6F00?style=for-the-badge)
+<!-- /tech-version-badges -->
 
 A collection of ten deep-learning experiments covering image processing, neural-network optimization, annotation, segmentation, object detection, image captioning, GANs, and sentiment classification.
 
